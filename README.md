@@ -1,2 +1,6 @@
-# expressDemo
-express框架构建好的demo
+# express框架脚手架
+
+```
+npm install
+npm start
+```
